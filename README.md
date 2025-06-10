@@ -113,7 +113,7 @@ width="30px">
 
 | Cursos | Certificados |
 | ------ | ------------ |
-| Tecologia da informação | [Cursando]( )
+| Tecnologia da informação | [Cursando]( )
 | Desenvolvimento Fullstack - Programador web | [Cursando](https://curso.programacaoweb.com.br/)
 
 
